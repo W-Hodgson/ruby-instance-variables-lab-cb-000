@@ -1,4 +1,4 @@
 class Dog
-  attr_reader :this_dogs_name
-  attr_writer :this_dogs_name
+  attr_reader :name
+  attr_writer :name
 end
